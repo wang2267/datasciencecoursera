@@ -1,4 +1,4 @@
-# datasciencecoursera
+# This is a markdown file
 Coursera DS DST Peer-graded Assignment
 echo "# datasciencecoursera" >> HelloWorld.md
 git init
